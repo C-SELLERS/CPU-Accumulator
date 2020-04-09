@@ -1,0 +1,30 @@
+Program successfully opened
+Accumulator: 5
+Program successfully opened
+Stack:  6
+Stack:  6 5
+Stack:  6 5 4
+Stack:  6 5 4 3
+Stack:  6 5 4 3 2
+Stack:  6 5 4 3 2 1
+Stack:  6 5 4 3 2
+Stack:  6 5 4 3
+Stack:  6 5 4
+Stack:  6 5
+Stack:  6
+Program successfully opened
+Accumulator: 0
+Program successfully opened
+Stack:  0
+Stack:  0 0
+Stack:  0 0 0
+Stack:  0 0 0 0
+Stack:  0 0 0 0 4
+Stack:  0 0 0 0
+Stack:  0 0 0 -1
+Stack:  0 0 0
+Stack:  0 0 -1
+Stack:  0 0
+Stack:  0 -1
+Stack:  0
+Stack:  -1
